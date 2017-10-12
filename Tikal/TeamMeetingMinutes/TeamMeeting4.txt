@@ -1,0 +1,17 @@
+CSE116 Team G Meeting Minutes
+
+Date: 11/25/2014
+Time: 8pm - 8:15pm
+Location: Google Hangout
+
+Present: Matthew Michinski, Achintya Pillai, Barry Lee
+
+Absent: Mark Grassi, Cameron Levine
+
+Progress Report: Game is now (almost) fully scalable.
+
+Issues: No saving functionality.
+
+Plans:  -Matt will still continue to work on command line.
+        -Mark will continue Documentation, finish making game scalable.
+	-Cameron, Achintya and Barry will continue to make JUnit tests.

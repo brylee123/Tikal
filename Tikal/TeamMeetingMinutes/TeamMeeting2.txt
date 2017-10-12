@@ -1,0 +1,15 @@
+CSE116 Team G Meeting Minutes
+
+Date: 11/16/2014
+Time: 6pm - 7pm
+Location: Capen Library
+
+Present: All team members (Matthew Michinski, Mark Grassi, Cameron Levine, Achintya Pillai, Barry Lee)
+
+Progress Report: All code from stage one has been combined. Game now accepts command-line arguments. Progress has been made on the GUI. Some tests made.
+
+Issues: GUI is incomplete. Scoring incomplete. Having some repository problems.
+
+Plans:  -Matt and Mark are continuing work on the coding for the GUI.
+	-Others (Cameron, Achintya and Barry) will continue to create JUnit tests for Stage 2.
+	-Cameron will resize images and create images for the volcanos and pyramids.

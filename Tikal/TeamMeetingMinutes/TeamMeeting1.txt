@@ -1,0 +1,15 @@
+CSE116 Team G Meeting Minutes
+
+Date: 11/13/2014
+Time: 6pm - 6:40pm
+Location: Baldy 21
+
+Present: All team members (Matthew Michinski, Mark Grassi, Cameron Levine, Achintya Pillai, Barry Lee)
+
+Progress Report: Not applicable; first team meeting with Stage 2 group.
+
+Issues: GUI incomplete. Missing pyramid pieces altogether. Missing all Stage 2 functionality.  Scoring incomplete.
+
+Plans:  -Matt will combine all group members' Stage 1 code. He will also make the game accept as command-line arguments the number and names of players.
+	-Mark will complete GUI and make the board size scalable with number of players.
+	-Others (Cameron, Achintya and Barry) will create comprehensive JUnit tests to test Stage 1 work.

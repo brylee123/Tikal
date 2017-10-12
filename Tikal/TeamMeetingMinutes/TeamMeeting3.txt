@@ -1,0 +1,17 @@
+CSE116 Team G Meeting Minutes
+
+Date: 11/22/2014
+Time: 7pm - 7:40pm
+Location: Capen Library
+
+Present: Matthew Michinski, Mark Grassi, Cameron Levine, Achintya Pillai
+
+Absent: Barry Lee
+
+Progress Report: GUI is near completion. We have run into set backs when making it. Got the Git repository working for most members. More tests made.
+
+Issues: Git not letting everyone push to it. Game not fully scalable to number of players.
+
+Plans:  -Matt will continue to work on command line.
+        -Mark will begin Documentation, extend functionality to make game scalable.
+	-Others (Cameron, Achintya and Barry) will continue to make JUnit tests, help with some action listeners.
